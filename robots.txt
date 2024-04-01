@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dheerajoruganty.github.io/sitemap.xml
+Sitemap: https://dheerajoruganty.github.io/# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
